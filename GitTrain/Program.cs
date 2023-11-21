@@ -5,6 +5,9 @@
         static void Main(string[] args)
         {
             string name = "Danial Abedini";
+            int b = 12;
+            float q = 12;
+            Console.Write("Result: ");
             Danial.Name = name;
             int b = 12;
             Reza.Hi();
