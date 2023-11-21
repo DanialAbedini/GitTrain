@@ -13,3 +13,12 @@ public static class Reza
         Console.WriteLine("Hi my name is reza");
     }
 }
+
+
+public static class Ahmad
+{
+    public static void HiAhmad()
+    {
+        Console.WriteLine("Hi my name is Ahmad");
+    }
+}

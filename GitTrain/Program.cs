@@ -11,6 +11,7 @@
             int b = 12;
             int s = 122;
             Reza.Hi();
+            Ahmad.HiAhmad();
             Console.WriteLine(b+s);
             Console.WriteLine(Danial.Name);
             Console.ReadLine();
