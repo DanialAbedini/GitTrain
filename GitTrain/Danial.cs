@@ -15,7 +15,7 @@ public static class Reza
 }
 
 
-public class sks
+public class Reza2
 {
 
 }
