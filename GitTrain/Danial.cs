@@ -27,4 +27,10 @@ public static class Ahmad
         Console.WriteLine("Hi my name is Ahmad");
 
     }
+
+    public static void HiHasan()
+    {
+        Console.WriteLine("Hi my name is Hasan");
+
+    }
 }
