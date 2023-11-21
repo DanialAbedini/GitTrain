@@ -17,7 +17,7 @@ public class Program
         Console.WriteLine();
         Console.WriteLine();
         Console.WriteLine();
-        Console.WriteLine("jkadklflsdfsd");
+        Console.WriteLine("jkadklflsdfsdkjkjk");
 
         for (int i = 0; i < 12; i++)
         {
