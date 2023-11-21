@@ -1,4 +1,6 @@
-﻿namespace GitTrain
+﻿using System.Threading.Channels;
+
+namespace GitTrain
 {
     public class Program
     {
@@ -18,6 +20,12 @@
             Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine("jkadklflsdfsd");
+
+            for (int i = 0; i < 12; i++)
+            {
+                Console.WriteLine("Salam");
+            }
+
             Reza.Hi();
             Console.WriteLine(b+s);
             Console.WriteLine(Danial.Name);
