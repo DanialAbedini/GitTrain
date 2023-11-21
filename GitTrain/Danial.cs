@@ -10,12 +10,6 @@ public static class Reza
 {
     public static void Hi()
     {
-        Console.WriteLine("Hi");
+        Console.WriteLine("Hi my name is reza");
     }
-}
-
-
-public class Reza2
-{
-
 }
