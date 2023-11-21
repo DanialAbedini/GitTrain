@@ -65,4 +65,11 @@ public static class Ahmad
         Console.WriteLine("Hi my name is Hasan");
 
     }
+    public static void alsaasois()
+    {
+        Console.WriteLine("Hi my name is Hasan");
+        Console.WriteLine("Hi my name is Hasan");
+        Console.WriteLine("Hi my name is Hasan");
+
+    }
 }
