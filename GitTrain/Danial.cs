@@ -13,3 +13,9 @@ public static class Reza
         Console.WriteLine("Hi");
     }
 }
+
+
+public class sks
+{
+
+}
