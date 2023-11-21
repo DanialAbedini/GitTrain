@@ -29,8 +29,6 @@ public class Program
                 {
                     Console.WriteLine("ss");
                 }
-
-
             }
         }
 
