@@ -12,8 +12,12 @@
             int s = 122;
             string gh = "dsad";
             Console.WriteLine(gh);
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
             Reza.Hi();
-            Ahmad.HiAhmad();
             Console.WriteLine(b+s);
             Console.WriteLine(Danial.Name);
             Console.ReadLine();
