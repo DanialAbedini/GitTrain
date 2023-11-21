@@ -6,14 +6,10 @@
         {
             string name = "Danial Abedini";
             Danial.Name = name;
+            int b = 12;
+            Reza.Hi();
             Console.WriteLine(Danial.Name);
             Console.ReadLine();
         }
-    }
-
-   public static class Danial
-    {
-        public static string Name { set; get; }
-
     }
 }
