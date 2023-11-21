@@ -21,7 +21,7 @@ public class Program
 
         for (int i = 0; i < 12; i++)
         {
-            Console.WriteLine("Salam");
+            Console.WriteLine("Salljljljljljljlam");
             for (int j = 1; j < 3000; j++)
             {
                 Console.WriteLine("Dany");
